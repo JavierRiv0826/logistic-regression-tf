@@ -35,15 +35,15 @@ source venv/bin/activate
 ```
 
 **3. Install dependencies:**
-
+```bash
 pip install -r requirements.txt
-
+```
 ## Usage
 
 Run the script:
-
+```bash
 python test1.py
-
+```
 This will train the logistic regression model and print the results.
 
 **Notes**
