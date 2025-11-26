@@ -15,7 +15,7 @@ It can be used as a starting point for binary classification tasks and learning 
 
 ```bash
 git clone https://github.com/JavierRiv0826/logistic-regression-tf.git
-cd logistic-regression-tf
+cd logistic-regression-tf```
 
 **2. Create and activate a virtual environment:**
 
@@ -33,7 +33,7 @@ source venv/bin/activate
 
 pip install -r requirements.txt
 
-**Usage**
+## Usage
 
 Run the script:
 
