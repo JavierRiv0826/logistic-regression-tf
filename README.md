@@ -15,19 +15,24 @@ It can be used as a starting point for binary classification tasks and learning 
 
 ```bash
 git clone https://github.com/JavierRiv0826/logistic-regression-tf.git
-cd logistic-regression-tf ```bash
+cd logistic-regression-tf
+```
 
 **2. Create and activate a virtual environment:**
 
 Windows (PowerShell)
 
+```bash
 python -m venv venv
 .\venv\Scripts\Activate.ps1
+```
 
 Mac/Linux
 
+```bash
 python3 -m venv venv
 source venv/bin/activate
+```
 
 **3. Install dependencies:**
 
